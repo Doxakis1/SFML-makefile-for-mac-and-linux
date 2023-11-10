@@ -11,9 +11,9 @@
 # you can add them both using the following brew command:
 # "brew install sfml g++"
 
-# This makefile relies that you have 3 existing folders in your code
+# This makefile relies that you have some existing folders in your code
 # A source/ directory with all your source cpp files
-# An includes/ directory with all your hpp header files
+# A recommended includes/ directory with all your hpp header files (personal preferance)
 # A bin/ directory where your executable will be placed
 
 #define where your SMFL is installed, on linux you can leave the following definition as "."
